@@ -5,6 +5,8 @@ https://github.com/RK1PF/API-REST
 
 **à utiliser avec Postman! Use with Postman, there is no form**
 
+**Installez aussi nodemon avec `npm i nodemon` ou `npm i -g nodemon`**
+
 J'ai commencé à implémenter un MVC
 
 1. Lancez `npm install` pour installer les modules
